@@ -1,4 +1,2 @@
-Arpita 
-India
-Full Stack Development
-
+Jiward
+Meta Front-End Developer 
